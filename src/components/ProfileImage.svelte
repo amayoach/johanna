@@ -4,37 +4,37 @@
   <div class="icons">
     <img
       class="icon"
-      src="./src/assets/github.png"
+      src="github.png"
       alt="Svelte Icon"
       style="height: 2em;"
     />
     <img
       class="icon"
-      src="./src/assets/link.png"
+      src="link.png"
       alt="Svelte Icon"
       style="height: 2em;"
     />
     <img
       class="icon"
-      src="./src/assets/orcid.png"
+      src="orcid.png"
       alt="Svelte Icon"
       style="height: 2em;"
     />
     <img
       class="icon"
-      src="./src/assets/google.png"
+      src="google.png"
       alt="Svelte Icon"
       style="height: 2em;"
     />
     <img
       class="icon"
-      src="./src/assets/res.png"
+      src="res.png"
       alt="Svelte Icon"
       style="height: 2em;"
     />
     <img
       class="icon"
-      src="./src/assets/x.png"
+      src="x.png"
       alt="Svelte Icon"
       style="height: 2em;"
     />
