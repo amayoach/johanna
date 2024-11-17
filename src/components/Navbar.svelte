@@ -9,14 +9,17 @@
   <style>
     nav {
       height: 60px;
-      background-color: #111;
+      background-color: #000000;
       color: white;
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 50px;
       font-size: 1.2rem;
       position: relative;
+      font-family: "Montserrat";
+      font-weight: 600;
+
     }
   
     .links {
@@ -66,7 +69,7 @@
   </style>
   
   <nav>
-    <div>My Portfolio</div>
+    <div>Dr Johanna Amaya-Panche</div>
   
     <!-- Menu icon for small screens -->
     <div class="menu-icon" on:click={toggleMenu}>
@@ -76,8 +79,10 @@
     <!-- Links section -->
     <div class="links {isMenuOpen ? 'open' : ''}">
       <a href="#about" class="link" on:click={() => (isMenuOpen = false)}>About</a>
-      <a href="#projects" class="link" on:click={() => (isMenuOpen = false)}>Projects</a>
-      <a href="#contact" class="link" on:click={() => (isMenuOpen = false)}>Contact</a>
+      <a href="#research" class="link" on:click={() => (isMenuOpen = false)}>Research</a>
+      <a href="#grants" class="link" on:click={() => (isMenuOpen = false)}>Grants</a>
+      <a href="#teaching" class="link" on:click={() => (isMenuOpen = false)}>Teaching</a>
+      <a href="#public" class="link" on:click={() => (isMenuOpen = false)}>Public</a>
     </div>
   </nav>
   

@@ -8,7 +8,7 @@
   :global(body) {
     margin: 0;
     padding: 0;
-    background-color: #000; /* Black background */
+    background-color: #000;
     color: white;
     font-family: Arial, sans-serif;
   }
@@ -20,10 +20,6 @@
     overflow: hidden;
   }
 
-  nav {
-    z-index: 1; /* Ensure navbar is above other content */
-  }
-
   .main {
     display: flex;
     flex: 1;
@@ -31,38 +27,32 @@
   }
 
   .left {
-    flex: 1 1 40%; /* Take up one-third of the width */
-    max-width: 40%; /* Ensure it remains one-third on larger screens */
-    position: relative;
+    flex: 1 1 40%;
+    max-width: 40%;
+    overflow-y: auto; /* Enable scrolling for image section */
   }
 
   .right {
-    flex: 2 1 66.66%; /* Take up two-thirds of the width */
+    flex: 2 1 60%;
     overflow-y: auto;
   }
 
-  /* Responsive styles */
+  /* Responsive styles for small screens */
   @media (max-width: 768px) {
     .main {
-      flex-direction: column; /* Stack the image and content vertically */
+      flex-direction: column;
+      overflow-y: auto; /* Enable scrolling for entire content */
     }
 
-    .left {
-      max-width: none; /* Reset max-width for stacking */
-      flex: 0 0 auto; /* Prevent flex-grow */
-    }
-
-    .right {
-      flex: 1; /* Take the remaining space */
+    .left, .right {
+      max-width: 100%;
+      flex: none;
     }
   }
 </style>
 
 <div class="container">
-  <!-- Navbar at the top -->
   <Navbar />
-
-  <!-- Main content area divided into left and right sections -->
   <div class="main">
     <div class="left">
       <ProfileImage />
