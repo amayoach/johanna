@@ -2,46 +2,24 @@
     <section id="about">
         <h2>About Me</h2>
         <p>
-            I am a Postdoctoral Researcher at the University of Edinburgh. I am
-            an Honorary Research Fellow at the Institute of the Americas,
-            University College London, where I served as Lecturer and Director
-            of the Master's Program in Latin American Studies. Additionally, I
-            am part of the Conflict & Change Cluster within the UCL Department
-            of Political Science. I earned my PhD in Government from the
-            University of Essex in the United Kingdom under the supervision of
-            Professor Kristian Skrede Gledistch and Dr Brian Phillips. I have a
-            Master of Research in Latin American Studies and a Bachelor of
-            Honours in Political Science and International Relations from
-            Pontificia Universidad Javeriana in Colombia. My research interests
-            are at the crossroads of International Relations, Political
-            Behaviour, and Political Science. My particular focus centres on the
-            impact of international actors upon the intricate local dynamics of
-            collective action strategies initiated by civil society agents to
-            foster peace, resilience, and reconciliation amidst armed conflicts,
-            focusing on gender and ethnic issues. My primary sphere of interest
-            encompasses Latin America, Colombia, and the Global South, which are
-            of special significance to my work. In addition to these core
-            concerns, my academic curiosity extends to interlinked subjects.
-            This encompasses exploring transitional justice, multiculturalism,
-            ethnicity, equality, diversity, and the inclusion of diverse
-            populations and an inquiry into research methodologies that underpin
-            our comprehension of intertwined global and local phenomena. I've
-            also undertaken roles as a researcher and policy analyst for
-            international organizations, including the European Union, the
-            United States Agency for International Development (USAID), the
-            Global Survivors Fund, and the United Nations Development Programme
-            (UNDP) Fund. The projects I have been involved in have received
-            funding from diverse sources, such as The European Union, the Global
-            Challenges Research Fund (GCRF), and the USAID. My research has been
-            discussed through media platforms such as France 24, The Dialogue,
-            The Canning House, and the Interetnich Committee for implementing
-            the Peace Agreement in Colombia. I am a proud first-generation,
-            mixed-race female scholar from the Global South with a working-class
-            family background. Before starting my PhD, I was an associate
-            professor and consultant in Colombia, focusing on collective action
-            for diversity, inclusion, peace-building, and community resilience.
-            Outside work, I enjoy various sports and dances, including weight
-            lifting, HIIT, salsa, contemporary dance, and Zumba.
+            I am Dr. Johanna Amaya Panche, a Postdoctoral Researcher at the
+            University of Edinburgh and an Honorary Research Fellow at the
+            Institute of the Americas, University College London. My research
+            bridges International Relations, Political Behaviour, and Political
+            Science, with a focus on how international actors influence local
+            collective action strategies for peace, resilience, and
+            reconciliation amid armed conflicts, emphasizing gender and ethnic
+            dynamics. My primary regional focus is Latin America, particularly
+            Colombia, and the Global South. I also delve into transitional
+            justice, multiculturalism, diversity, and inclusion, as well as
+            research methodologies for understanding global-local interactions.
+            My work has been supported by organizations such as the European
+            Union, USAID, and the Global Challenges Research Fund, and discussed
+            in platforms like France 24 and The Dialogue. As a first-generation,
+            mixed-race female scholar from the Global South, I bring a unique
+            perspective to my work. Prior to my PhD, I was an associate
+            professor and consultant in Colombia, dedicated to advancing
+            diversity, inclusion, and peace-building.
         </p>
     </section>
 

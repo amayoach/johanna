@@ -1,5 +1,5 @@
 <div class="image-container">
-  <div class="title">Dr Johanna Amaya-Panche</div>
+  <!-- <div class="title">Dr Johanna Amaya-Panche</div> -->
   <img src="./img.PNG" alt="Profile Image" />
   <div class="icons">
     <img
