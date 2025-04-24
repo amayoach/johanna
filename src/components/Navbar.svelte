@@ -14,7 +14,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 50px;
+      padding: 0 30px;
       font-size: 1.2rem;
       position: relative;
       font-family: "Montserrat";
