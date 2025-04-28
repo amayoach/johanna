@@ -29,13 +29,19 @@
         <h2>Research</h2>
         <h3>Articles in Revision & Resubmission</h3>
         <p>
-            <a
+            Ortiz-Escobar, D., Amaya-Panche, J., Velasco-Guchalla, X., &
+            Dorussen, H. (under review). Trust and cooperation: Evaluating the
+            socioeconomic reintegration model of former FARC combatants in the
+            Colombian peace processes. Manuscript submitted for publication to
+            Latin American Research Review.
+        </p>
+        <p>
+            Amaya-Panche, J. <a
                 href="https://advance.sagepub.com/users/858556/articles/1242143-foreign-aid-for-peace-and-civilian-victimisation"
                 target="_blank"
-                >Amaya-Panche, J. Foreign Aid for Peace and Civilian
-                Victimisation. Under Minor Editorial Revision. Journal of
-                Cooperation and Conflict.</a
-            >
+                >Foreign Aid for Peace and Civilian Victimisation. Under Minor
+                Editorial Revision.</a
+            > Journal of Cooperation and Conflict.
         </p>
         <p>
             Amaya-Panche, J. Can Foreign Aid Foster Reconciliation? Evidence of
@@ -49,64 +55,56 @@
 
         <h3>Articles in Peer-Reviewed Journals</h3>
         <p>
-            <a
+            Oidor, C. A., Mendoza, C. U., Amaya-Panche, J., Velazco, A. I.,
+            Sáez, F. A., & Velásquez, D. A. B. (2019). <a
                 href="https://www.cidob.org/en/publications/reconciliacion-y-construccion-de-la-paz-territorial-en-colombia"
                 target="_blank"
-                >Oidor, C. A., Mendoza, C. U., Amaya-Panche, J., Velazco, A. I.,
-                Sáez, F. A., & Velásquez, D. A. B. (2019). Reconciliation and
-                the territorial peacebuilding in Colombia: The case of the Nasa
-                community. Revista CIDOB d’Afers Internacionals. (121), 91–112.
-            </a>
+                >Reconciliation and the territorial peacebuilding in Colombia:
+                The case of the Nasa community.</a
+            > Revista CIDOB d’Afers Internacionals. (121), 91–112.
         </p>
         <p>
-            <a
+            Pino, J. F., Amaya-Panche, J., & Diaz Aguirre, C. F. (2017). <a
                 href="https://revistas.usb.edu.co/index.php/Cooperacion/article/view/3121/2796"
                 target="_blank"
-                >Pino, J. F., Amaya-Panche, J., & Diaz Aguirre, C. F. (2017). La
-                teoría y la realidad del discurso de protección ambiental y las
-                políticas extractivas en Bolivia. International Journal of
-                Cooperation Development. 4(1). 137–155.</a
-            >
+                >La teoría y la realidad del discurso de protección ambiental y
+                las políticas extractivas en Bolivia.</a
+            > International Journal of Cooperation Development. 4(1). 137–155.
         </p>
         <p>
-            <a
+            Amaya-Panche, J., & Langer, J. (2015). <a
                 href="https://revistas.utb.edu.co/index.php/economiayregion/article/view/87"
                 target="_blank"
+                >Truth Commissions as Learning Institutions to Deal with the
+                Past: The Case of Kenya.</a
             >
-                Amaya-Panche, J., & Langer, J. (2015). Truth Commissions as
-                Learning Institutions to Deal with the Past: The Case of Kenya.
-                In Economia & Sociedad. (9). 35-65.</a
-            >
+            In Economia & Sociedad. (9). 35-65.
         </p>
         <p>
-            <a
+            Amaya-Panche, J., & Pino, J. F. (2015). <a
                 href="https://revistas.usantotomas.edu.co/index.php/hallazgos/article/view/2165"
                 target="_blank"
-                >Amaya-Panche, J., & Pino, J. F. (2015). Modelo de desarrollo y
-                élites económicas en Bolivia: análisis de la concepción de
-                desarrollo ancestral del presidente Evo Morales. Hallazgos.
-                12(24). 241-255.</a
-            >
+                >Modelo de desarrollo y élites económicas en Bolivia: análisis
+                de la concepción de desarrollo ancestral del presidente Evo
+                Morales.</a
+            > Hallazgos. 12(24). 241-255.
         </p>
 
         <p>
-            <a
+            Amaya-Panche, J. (2012). <a
                 href="https://revistas.usb.edu.co/index.php/criterios/article/view/1976"
                 target="_blank"
-                >Amaya-Panche, J. (2012). Violencia y no-violencia: la
-                experiencia de paz de la ATCC. Revista Criterios. 5(1). 185–220.</a
-            >
+                >Violencia y no-violencia: la experiencia de paz de la ATCC.</a
+            > Revista Criterios. 5(1). 185–220.
         </p>
 
         <p>
-            <a
+            Amaya-Panche, J. (2008). <a
                 href="https://www.academia.edu/21623443/La_relaci%C3%B3n_entre_guerra_y_pol%C3%ADtica_en_Colombia_de_la_violencia_a_las_violencias_1"
                 target="_blank"
-            >
-                Amaya-Panche, J. (2008). La relación entre guerra y política en
-                Colombia: de La Violencia a las violencias. Economía &
-                Desarrollo. 13–35.
-            </a>
+                >La relación entre guerra y política en Colombia: de La
+                Violencia a las violencias.</a
+            > Economía & Desarrollo. 13–35.
         </p>
 
         <h3>Papers to be submitted to Peer-Reviewed Journals</h3>
@@ -121,32 +119,29 @@
         </p>
         <h3>Books</h3>
         <p>
-            <a href="https://www.jstor.org/stable/j.ctvckq925" target="_blank">
-                Amaya-Panche, J., & Idrobo, J. (2018). Reconciliaciones y
-                resistencias: Modelos mentales y aprendizajes colectivos en la
-                construcción de paz territorial en Colombia. (1). USTA
-                Editorial.
-            </a>
+            Amaya-Panche, J., & Idrobo, J. (2018).<a
+                href="https://www.jstor.org/stable/j.ctvckq925"
+                target="_blank"
+            >
+                Reconciliaciones y resistencias: Modelos mentales y aprendizajes
+                colectivos en la construcción de paz territorial en Colombia.</a
+            > (1). USTA Editorial.
         </p>
         <p>
-            <a
+            Mention: <a
                 href="https://www.semana.com/cultura/articulo/10-libros-leer-y-entender-colombia-en-el-2018/593461/"
                 target="_blank"
-                >Mention: Academic book of the year, recommended by the printing
-                house.
+                >Academic book of the year, recommended by the printing house.
             </a>
         </p>
         <p>
-            <a
+            Martínez, H; Gutiérrez, P.; Ortiz, D; Dorussen, H.; Benedetti, V.;
+            Bustos, A.; Contreras, L. Gaitán, A., García, A.; Amaya-Panche, J;
+            Velasco, X. <a
                 href="https://bdigital.uexternado.edu.co/entities/publication/6722a084-d3cf-4da2-893d-e4bc55dc125e"
                 target="_blank"
-            >
-                Martínez, H; Gutiérrez, P.; Ortiz, D; Dorussen, H.; Benedetti,
-                V.; Bustos, A.; Contreras, L. Gaitán, A., García, A.;
-                Amaya-Panche, J; Velasco, X. Fortalecimiento de la confianza y
-                la inclusión socioeconómica. University of Essex. Universidad
-                Externado de Colombia.</a
-            >
+                >Fortalecimiento de la confianza y la inclusión socioeconómica.</a
+            > University of Essex. Universidad Externado de Colombia.
         </p>
 
         <h3>Book Chapters</h3>
@@ -158,27 +153,25 @@
             las Relaciones Internacionales contemporáneas. USTA Editorial.
         </p>
         <p>
-            <a
+            Gomis-Balestreri, M., & Amaya-Panche, J. (2017).<a
                 href="https://www.researchgate.net/publication/313470144_El_sindrome_del_tirano_silencioso_del_Estado_fantasma_al_autoritarismo_extractivista_local_Estudio_de_caso_el_Meta_Colombia"
                 target="_blank"
             >
-                Gomis-Balestreri, M., & Amaya-Panche, J. (2017). El síndrome del
-                tirano silencioso: del Estado fantasma al autoritarismo
-                extractivista local. Estudio de caso: el Meta, Puerto Gaitan.
-                (1) 59-102. In Olate, J. (Ed.) Estados autoritarios
-                latinoamericanos (Ayer, hoy y proyecciones) .
-            </a>
+                El síndrome del tirano silencioso: del Estado fantasma al
+                autoritarismo extractivista local. Estudio de caso: el Meta,
+                Puerto Gaitan.</a
+            >
+            (1) 59-102. In Olate, J. (Ed.) Estados autoritarios latinoamericanos
+            (Ayer, hoy y proyecciones) .
         </p>
         <h3>Policy Brief</h3>
         <p>
-            <a
+            Amaya-Panche, J. (2021). <a
                 href="https://www.iss.europa.eu/sites/default/files/EUISSFiles/Brief_11_2021.pdf"
                 target="_blank"
-            >
-                Amaya-Panche, J. (2021). Implementing the Peace Agreement in
-                Colombia. Challenges for Peacebuilding and Reconciliation.
-                European Union. Institute for Security Studies.
-            </a>
+                >Implementing the Peace Agreement in Colombia. Challenges for
+                Peacebuilding and Reconciliation.</a
+            > European Union. Institute for Security Studies.
         </p>
     </section>
 
@@ -194,19 +187,17 @@
         </p>
         <p>
             Postdoctoral Research Fellow. Networks of International Actors and
-            Peace Inclusivity. 2024-2026.
+            Peace Inclusivity. 2024-2026. £137,000.
         </p>
 
         <h3>University College London</h3>
         <p>
-            <a
+            Co-Principal Investigator. <a
                 href="https://drive.google.com/file/d/1o2UQ4LZfGj-fNShQ2y03E5I3xokI6vYZ/view"
-            >
-                Co-Principal Investigator. Displaced by Drought and Deshielo:
-                Evaluating the Escalation and Experiences of Venezuelan Climate
-                Refugeeism. UCL Climate Crisis Grand Challenge Small Grant. 2024
-                -2025.
-            </a>
+                >Displaced by Drought and Deshielo: Evaluating the Escalation
+                and Experiences of Venezuelan Climate Refugeeism. UCL Climate
+                Crisis Grand Challenge Small Grant. 2024 -2025.</a
+            > £10,000.
         </p>
 
         <h3>British Academy Talent Development Grant</h3>
@@ -226,13 +217,13 @@
         <p>
             Research Officer: Department of Government GCRF: Strengthening trust
             and socioeconomic inclusion in Colombia. 2020-present
-            <br />
-            Research Officer. School of Law GCRF: Legitimacy, accountability, victims'
-            participation, and reparation in transitional justice settings - lessons
-            from and for Colombia. 2021-2022
-            <br />
-            Research Officer: Women building peace in Colombia. 2019.
         </p>
+        <p>
+            Research Officer. School of Law GCRF: Legitimacy, accountability,
+            victims' participation, and reparation in transitional justice
+            settings - lessons from and for Colombia. 2021-2022
+        </p>
+        <p>Research Officer: Women building peace in Colombia. 2019.</p>
 
         <h3>University of Aarhus</h3>
         <p>Department of Political Science. PhD Research Visit. 2022</p>
@@ -645,7 +636,7 @@
     }
 
     a {
-        color: gray;
+        color: steelblue;
     }
 
     h2 {
